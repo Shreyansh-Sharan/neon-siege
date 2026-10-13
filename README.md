@@ -17,7 +17,7 @@ The site is a single page: `#/` is the game's menu, and the same query parameter
 ## Controls
 
 - `W` `A` `S` `D` move · mouse aims · `LMB` fire (or auto-fire)
-- `Space` dash · `Q`/`E` super
+- `E` or `RMB` power · `Q` super · `Space` dash
 
 ## Ads and gear
 
