@@ -2,7 +2,7 @@
 
 A top-down cyberpunk arena shooter: six heroes with their own blasters and supers, 3v3 Team Takedown and Core Control on three neon maps, and a solo Grid Royale against sixteen bots on a shrinking grid with loot crates. Coins, gear merging, palettes and daily jobs are saved in your browser.
 
-Built with Three.js · Deterministic sim · Twin-stick. Part of [Shreyansh Sharan's portfolio](https://shreyansh-sharan.github.io/shreyanshsharan-portfolio/), split into its own site.
+Built with Three.js · Deterministic sim · Twin-stick. Part of [Shreyansh Sharan's portfolio](https://shreyanshsharan.com/), split into its own site.
 
 ```bash
 npm install
